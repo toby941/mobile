@@ -1,0 +1,38 @@
+.btnBox {
+    bottom: 30px;
+    width: 70%;
+    position: absolute;
+    left:50%;
+    margin-left:-35%
+}
+.tabBox {
+    background: url("/images/phone/bg_tab_b.png") no-repeat scroll left bottom transparent;
+    bottom: 30px;
+    left: 50%;
+    margin-left: -110px;
+    position: absolute;
+    width: 220px;
+    z-index: 20;
+}
+.tabBox2{
+   bottom: 60px;
+    left: 50%;
+    margin-left: -110px;
+    position: absolute;
+    width: 220px;
+    z-index: 20;
+  
+}
+.tabBottom {
+    background: url("/images/phone/bg_tab_t.png") no-repeat scroll left top transparent;
+    padding: 25px 0 0;
+}
+.ui-page-active {
+    overflow: hidden;
+    position: relative;
+    background: url("/images/phone/bg_main.png") repeat-x scroll center top #D4D6DF;
+}
+.photoview img {
+    width: 100%;
+}
+.ui-bottom {background:url(/images/phone/bg_footer.png) no-repeat scroll right bottom transparent;bottom:0;color:#B3AFAD;font-size: 10px;padding: 0 5px 0 0;position: absolute; right:0;text-align:right;width:81px}
