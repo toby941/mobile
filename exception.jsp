@@ -12,6 +12,8 @@ a:link,a:visited,a:hover{color:#078c91;text-decoration:none}
 .con{width:80%;padding:30px;margin:auto}
 .footer{position:relative;bottom:0;right:0;padding:0 5px 0 0;font-size:10px;color:#b3afad; background:url(../images/phone/bg_footer.png) bottom right no-repeat;width:81px;text-align:right}
 </style>
+
+
 </head>
 <body>
 <div class="main">

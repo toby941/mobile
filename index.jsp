@@ -17,6 +17,7 @@
   <style type="text/css">
   </style>
 </head>
+
 <body>
 <div data-role="page" data-fullscreen="true">
 <header data-role="header"> 
